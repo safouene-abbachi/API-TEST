@@ -1,0 +1,35 @@
+.user {
+  width: 400px;
+  margin-left: 500px;
+  height: 400px;
+
+  /* display: flex;
+  flex-wrap: wrap; */
+}
+.card {
+  height: 400px;
+  margin-bottom: 10px;
+  background-color: #ffeaa7;
+  background-image: linear-gradient(315deg, #ffeaa7 0%, #000000 74%);
+}
+/* .posts {
+} */
+.card-body {
+  margin-left: 85px;
+}
+.btn {
+  margin-left: 159px;
+}
+.post-card {
+  border: 1px solid;
+  width: 414px;
+  height: 268px;
+  margin-left: 500px;
+  background-color: #000000;
+  background-image: linear-gradient(315deg, #000000 0%, #b82e1f 74%);
+  margin-bottom: 10px;
+}
+.link {
+  font-size: 50px;
+  margin-left: 100px;
+}
